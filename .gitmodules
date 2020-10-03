@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/trading-strategy-step-simulator-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/trading-strategy-step-simulator-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
